@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="starting02">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\soundarya.sarathi\OneDrive - Accenture\study_materials\scala\gettingstarted\starting02\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
